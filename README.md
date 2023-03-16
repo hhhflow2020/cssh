@@ -1,0 +1,2 @@
+# cssh
+auto connect ssh
